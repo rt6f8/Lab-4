@@ -1,0 +1,4 @@
+<form name="input" id="query" action="html_form_action.asp" method="get">
+User ID: <input type="text" id="search" name="user"> 
+<input src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="submit" id="results" value="Submit">
+</form>
